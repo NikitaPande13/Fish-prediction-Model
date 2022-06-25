@@ -28,7 +28,7 @@ Run
 
 * In a terminal or command window, navigate to the top-level project directory [NikitaPande13\LinearRegression\Fish prediction Model](https://github.com/NikitaPande13/Machine_Learning-All-Model-In-One/tree/main/LinearRegression/Fish%20prediction%20Model)(that contains this README) and run one of the following commands:
 
-![image]((https://user-images.githubusercontent.com/106645403/175765686-abb81e3f-f5fb-49e3-92ba-42764c9543ec.png))
+![image](https://user-images.githubusercontent.com/106645403/175765686-abb81e3f-f5fb-49e3-92ba-42764c9543ec.png)
 
 OR
 
