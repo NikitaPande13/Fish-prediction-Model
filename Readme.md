@@ -32,7 +32,7 @@ Run
 
 OR
 
-![image]((https://user-images.githubusercontent.com/106645403/175765715-8df0624f-5e34-4059-aa9c-52f1e531e571.png))
+![image](https://user-images.githubusercontent.com/106645403/175765715-8df0624f-5e34-4059-aa9c-52f1e531e571.png)
 
 This will open the Jupyter Notebook software and project file in your browser.
 
